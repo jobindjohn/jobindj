@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/static/v1?label=tooling&message=GitHub%20Actions&color=2088FF&logo=githubactions)
 -->
 
-### Software and Tooling
+### Tooling
 
 ![Jupyter Notebooks](https://img.shields.io/static/v1?label=Python&message=Jupyter%20Notebooks&color=F37626&logo=jupyter)
 ![Microsoft Office](https://img.shields.io/static/v1?label=office&message=MS%20Office&color=D83B01&logo=microsoftoffice)
